@@ -24,10 +24,6 @@ spawnArea= 1500; // Default = 1500
 MaxVehicleLimit = 300; // Default = 50
 MaxDynamicDebris = 500; // Default = 100
 dayz_MapArea = 8000; // Default = 10000
-dayz_maxLocalZombies = 80; // Default = 40
-
-dayz_maxGlobalZombies = 60; // Default = 30
-dayz_maxZeds = 1000; // Default = 500
 
 EpochEvents = [["any","any","any","any",30,"crash_spawner"],["any","any","any","any",0,"crash_spawner"]];
 dayz_fullMoonNights = true;
@@ -117,6 +113,6 @@ if (!isDedicated) then {
 	_void = [] execVM "R3F_Realism\R3F_Realism_Init.sqf";
 	
 	//Lights
-	[17,6,true,false,true,true,64,250,600,10,[0.698, 0.556, 0.419],"Generator_DZ",250,"",6] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
+	[17,6,true,false,true,true,72,242,600,10,[0.698, 0.556, 0.419],"Generator_DZ",208,"",0.5] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
 };
 #include "\z\addons\dayz_code\system\REsec.sqf"
