@@ -51,7 +51,7 @@ menu_Soldier_Sniper_PMC = [
 ];
 // Tom's Vehicles
 menu_GUE_Soldier_3 = [
-	[["Bikes and ATV",608],["Buses and Vans",563],["Cargo Trucks",564],["Compact Cars",578],["Economy Cars",583],["Fuel Trucks",492],["Luxury Cars",581],["Microcars",584],["Military Unarmed",491],["Trucks",495],["Used Cars",585],["Utility Vehicles",565]],
+	[["Bikes and ATV",608],["Buses and Vans",563],["Cargo Trucks",564],["Fuel Trucks",492],["Military Unarmed",491],["Trucks",495],["Used Cars",585],["Utility Vehicles",565]],
 	[],
 	"friendly"
 ];
@@ -81,20 +81,20 @@ menu_RU_Worker4 = [
 ];
 // Slav's Vehicles
 menu_RU_Woodlander4 = [
-	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Compact Cars",560],["Economy Cars",523],["Fuel Trucks",589],["Luxury Cars",521],["Microcars",522],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
+	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
 	[],
 	"neutral"
 ];
 // Trin's General Supplies
 menu_Citizen3 = [
 	[["Backpacks",496],["Clothes",497],["Cooked Meats",580],["Drinks",498],["Packaged Food",579]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // Melissa's General Supplies
 menu_RU_Damsel5 = [
 	[["Backpacks",538],["Clothes",628],["Cooked Meats",630],["Drinks",601],["Packaged Food",629]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"friendly"
 ];
 // Dr. Vu
@@ -124,7 +124,7 @@ menu_Profiteer2_EP1 = [
 // Mrs. Doubtfire
 menu_RU_Farmwife5 = [
 	[["Backpacks",632],["Clothes",631],["Cooked Meats",634],["Drinks",633],["Packaged Food",635]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 

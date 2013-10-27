@@ -20,14 +20,14 @@ menu_BAF_Soldier_AAR_DDPM = [
 ];
 // Friendly Vehicles
 menu_US_Delta_Force_AR_EP1 = [
-	[["Bikes and ATV",608],["Buses and Vans",563],["Cargo Trucks",564],["Compact Cars",578],["Economy Cars",583],["Fuel Trucks",492],["Luxury Cars",581],["Microcars",584],["Military Unarmed",491],["Trucks",495],["Used Cars",585],["Utility Vehicles",565]],
+	[["Bikes and ATV",608],["Buses and Vans",563],["Cargo Trucks",564],["Fuel Trucks",492],["Military Unarmed",491],["Trucks",495],["Used Cars",585],["Utility Vehicles",565]],
 	[],
 	"friendly"
 ];
 // General Store
 menu_US_Delta_Force_Medic_EP1 = [
 	[["Backpacks",496],["Clothes",497],["Cooked Meats",580],["Drinks",498],["Packaged Food",579]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // Weapons neutral
@@ -62,7 +62,7 @@ menu_Soldier_Sniper_PMC = [
 ];
 // Vehicles Neutral
 menu_UN_CDF_Soldier_Pilot_EP1 = [
-	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Compact Cars",560],["Economy Cars",523],["Fuel Trucks",589],["Luxury Cars",521],["Microcars",522],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
+	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
 	[],
 	"neutral"
 ];
@@ -80,14 +80,14 @@ menu_BAF_Soldier_EN_MTP = [
 ];
 // Friendly Vehicles 2
 menu_UN_CDF_Soldier_Pilot_EP1 = [
-	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Compact Cars",593],["Economy Cars",594],["Fuel Trucks",595],["Luxury Cars",596],["Microcars",597],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
+	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Fuel Trucks",595],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
 	[],
 	"friendly"
 ];
 // General Store 2
 menu_GUE_Worker2 = [
 	[["Backpacks",538],["Clothes",628],["Cooked Meats",630],["Drinks",601],["Packaged Food",629]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"friendly"
 ];
 // Medical Supplies
@@ -117,7 +117,7 @@ menu_GUE_Soldier_CO = [
 // General Store 3
 menu_RU_Damsel4 = [
 	[["Backpacks",632],["Clothes",631],["Cooked Meats",634],["Drinks",633],["Packaged Food",635]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // West Wholesaler
@@ -146,7 +146,7 @@ menu_GUE_Commander = [
 ];
 // Vehicles Neutral 2
 menu_GUE_Soldier_2 = [
-	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Compact Cars",652],["Economy Cars",654],["Fuel Trucks",655],["Luxury Cars",656],["Microcars",657],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
+	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Fuel Trucks",655],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
 	[],
 	"neutral"
 ];

@@ -4,12 +4,12 @@ serverTraders = ["TK_CIV_Woman02_EP1","TK_CIV_Takistani05_EP1","TK_CIV_Takistani
 // Farhah's General Supplies
 menu_TK_CIV_Woman02_EP1 = [
 	[["Backpacks",496],["Clothes",497],["Cooked Meats",580],["Drinks",498],["Packaged Food",579]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // Akwhell's Vehicles
 menu_TK_CIV_Takistani05_EP1 = [
-	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Compact Cars",560],["Economy Cars",523],["Fuel Trucks",589],["Luxury Cars",521],["Microcars",522],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
+	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
 	[],
 	"neutral"
 ];
@@ -33,7 +33,7 @@ menu_CIV_EuroMan01_EP1 = [
 ];
 // Darren's Auto
 menu_CIV_EuroMan02_EP1 = [
-	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Compact Cars",593],["Economy Cars",594],["Fuel Trucks",595],["Luxury Cars",596],["Microcars",597],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
+	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Fuel Trucks",595],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
 	[],
 	"friendly"
 ];
@@ -46,7 +46,7 @@ menu_Dr_Hladik_EP1 = [
 // Heather's General Supplies
 menu_CIV_EuroWoman01_EP1 = [
 	[["Backpacks",538],["Clothes",628],["Cooked Meats",630],["Drinks",601],["Packaged Food",629]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"friendly"
 ];
 // Greg's Ammunition

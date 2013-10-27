@@ -9,13 +9,13 @@ menu_GUE_Villager4 = [
 // Alda's General Supplies
 menu_RU_Farmwife4 = [
 	[["Backpacks",538],["Clothes",628],["Cooked Meats",630],["Drinks",601],["Packaged Food",629]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"friendly"
 ];
 // Carole's General Supplies
 menu_RU_Farmwife3 = [
 	[["Backpacks",632],["Clothes",631],["Cooked Meats",634],["Drinks",633],["Packaged Food",635]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // Dr. Zoidberg
@@ -38,7 +38,7 @@ menu_Soldier_Sniper_PMC = [
 ];
 // Rutahn's Vehicles.
 menu_GUE_Soldier_Pilot = [
-	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Compact Cars",593],["Economy Cars",594],["Fuel Trucks",595],["Luxury Cars",596],["Microcars",597],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
+	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Fuel Trucks",595],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
 	[],
 	"friendly"
 ];
@@ -68,7 +68,7 @@ menu_GUE_Woodlander2 = [
 ];
 // Aaron's Vehicles
 menu_GUE_Soldier_Crew = [
-	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Compact Cars",652],["Economy Cars",654],["Fuel Trucks",655],["Luxury Cars",656],["Microcars",657],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
+	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Fuel Trucks",655],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
 	[],
 	"neutral"
 ];

@@ -1,5 +1,5 @@
 // DayZ Epoch TRADERS for 16
-serverTraders = ["GUE_Soldier_Pilot","UN_CDF_Soldier_MG_EP1","GUE_Soldier_Medic","GUE_Woodlander1","GUE_Commander","Tanny_PMC","BAF_Soldier_AMG_W","BAF_Soldier_AAA_DDPM","GUE_Soldier_3","GUE_Soldier_1","BAF_Pilot_MTP","GUE_Soldier_Sab","US_Soldier_Medic_EP1","CZ_Special_Forces_MG_DES_EP1","Damsel5","GUE_Woodlander3","UN_CDF_Soldier_AAT_EP1","RU_Farmwife1","Citizen2_EP1","Rita_Ensler_EP1","USMC_SoldierS_Engineer","USMC_Soldier_TL","ValentinaVictim"];
+serverTraders = ["GUE_Soldier_Pilot","UN_CDF_Soldier_MG_EP1","GUE_Soldier_Medic","GUE_Woodlander1","GUE_Commander","Tanny_PMC","BAF_Soldier_AMG_W","BAF_Soldier_AAA_DDPM","GUE_Soldier_2","GUE_Soldier_1","BAF_Pilot_MTP","GUE_Soldier_Sab","US_Soldier_Medic_EP1","CZ_Special_Forces_MG_DES_EP1","Damsel5","GUE_Woodlander3","UN_CDF_Soldier_AAT_EP1","RU_Farmwife1","Citizen2_EP1","Rita_Ensler_EP1","USMC_SoldierS_Engineer","USMC_Soldier_TL","ValentinaVictim","Reynolds_PMC","GUE_Soldier_AR","FR_Corpsman"];
 // AWOL's Airfield
 menu_GUE_Soldier_Pilot = [
 	[["Airplanes",517],["Helicopter Unarmed",519]],
@@ -49,8 +49,8 @@ menu_BAF_Soldier_AAA_DDPM = [
 	"neutral"
 ];
 // Brians Vehicles
-menu_GUE_Soldier_3 = [
-	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Compact Cars",560],["Economy Cars",523],["Fuel Trucks",589],["Luxury Cars",521],["Microcars",522],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
+menu_GUE_Soldier_2 = [
+	[["Bikes and ATV",587],["Buses and Vans",588],["Cargo Trucks",586],["Fuel Trucks",589],["Military Unarmed",598],["Trucks",590],["Used Cars",520],["Utility Vehicles",591]],
 	[],
 	"neutral"
 ];
@@ -80,14 +80,14 @@ menu_US_Soldier_Medic_EP1 = [
 ];
 // Kypex's Vehicles
 menu_CZ_Special_Forces_MG_DES_EP1 = [
-	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Compact Cars",593],["Economy Cars",594],["Fuel Trucks",595],["Luxury Cars",596],["Microcars",597],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
+	[["Bikes and ATV",536],["Buses and Vans",592],["Cargo Trucks",570],["Fuel Trucks",595],["Military Unarmed",599],["Trucks Unarmed",535],["Used Cars",600],["Utility Vehicles",568]],
 	[],
 	"neutral"
 ];
 // Melly's General Supplies
 menu_Damsel5 = [
 	[["Backpacks",688],["Clothes",689],["Cooked Meats",690],["Drinks",691],["Packaged Food",692]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // Jim's Repair/Building Supplies
@@ -105,7 +105,7 @@ menu_UN_CDF_Soldier_AAT_EP1 = [
 // Bertha's General Supplies
 menu_RU_Farmwife1 = [
 	[["Backpacks",496],["Clothes",497],["Cooked Meats",580],["Drinks",498],["Packaged Food",579]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
 	"neutral"
 ];
 // Rocky's Parts/Building Supplies
@@ -116,7 +116,7 @@ menu_Citizen2_EP1 = [
 ];
 // Planica Vehicle Vendor
 menu_Rita_Ensler_EP1 = [
-	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Compact Cars",652],["Economy Cars",654],["Fuel Trucks",655],["Luxury Cars",656],["Microcars",657],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
+	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Fuel Trucks",655],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
 	[],
 	"neutral"
 ];
@@ -135,6 +135,24 @@ menu_USMC_Soldier_TL = [
 // Plancia General Store
 menu_ValentinaVictim = [
 	[["Backpacks",632],["Clothes",631],["Cooked Meats",634],["Drinks",633],["Packaged Food",635]],
-	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Wiskey Bottle","Copper Bar",101]],
+	[["ItemCopperBar","TrashJackDaniels",1,1,"buy","Empty Whiskey Bottle","Copper Bar",101]],
+	"neutral"
+];
+// Planica Parts Vendor
+menu_Reynolds_PMC = [
+	[["Building Supplies",680],["Toolbelt Items",681],["Vehicle Parts",682]],
+	[],
+	"neutral"
+];
+// Island Parts Vendor
+menu_GUE_Soldier_AR = [
+	[["Building Supplies",678],["Toolbelt Items",679],["Vehicle Parts",677]],
+	[],
+	"neutral"
+];
+// Island Vehicle Vendor
+menu_FR_Corpsman = [
+	[["Bikes and ATV",650],["Buses and Vans",651],["Cargo Trucks",653],["Fuel Trucks",655],["Military Unarmed",658],["Trucks",659],["Used Cars",660],["Utility Vehicles",661]],
+	[],
 	"neutral"
 ];
