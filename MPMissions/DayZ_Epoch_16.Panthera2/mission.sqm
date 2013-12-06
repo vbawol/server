@@ -18,7 +18,7 @@ class Mission
 		"ind_tank",
 		"camisc_e",
 		"glt_m300t",
-		"suv_col",
+		
 		"csj_gyroac",
 		"map_eu",
 		"jetskiyanahuiaddon"
@@ -33,7 +33,7 @@ class Mission
 	randomSeed=11171215;
 	class Intel
 	{
-		briefingName="Panthera DayZ_Epoch";
+		briefingName="DayZ Epoch Panthera";
 		briefingDescription="Panthera DayZ Epoch Private Server";
 		startWeather=0.067362607;
 		forecastWeather=0.52341133;
